@@ -2,7 +2,7 @@
 This would not have been possible without Programming Hero on Youtube. https://www.youtube.com/c/ProgrammingHero Thank you!
 
 
-#Needed Packages
-opencv-python
-mediapipe
+# Needed Packages
+opencv-python,
+mediapipe,
 pyautogui
